@@ -122,6 +122,15 @@ src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principl
 
 <center><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1"><p class="big">
 
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
 <center><table style="width:100%">  
 <tr>  
 <th colspan="3"></th>
@@ -213,11 +222,11 @@ Please E-Mail Me: johnadavie@gmail.com
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFdURiBpcyBQZXJtYWN1bH
 R1cmVcbmF1dGhvcjogSm9obiBEYXZpZVxuZGF0ZTogJzIwMjEt
-MDItMDknXG4iLCJoaXN0b3J5IjpbLTE4OTE0MTExNDYsLTEzMj
-U0ODY3MjcsMjczODU3MDU0LC05NjYwNzA0MzUsMTg2ODE1NzM3
-NCwtMTQxNzcxMDk4NCwtMTQ4NTcyMzkxLC0yMDcxNzI3Njk5LC
-0xNjUzNDY1MDUyLC00MjkwMjE2MDMsLTMxNDAzODY2MCwxOTkz
-MzQ3MDA4LDIwMjI0MTI1ODIsMTM3NzMwNTM4OCwxMTg5Mzk2Mz
-c0LDE3Mzc0MDA5ODMsLTM2NjYzODU3MCwxNDQ0NzUzODg3LDE2
-Mzg1NTYyNjUsMjEyNTc3NzMxMl19
+MDItMDknXG4iLCJoaXN0b3J5IjpbLTE2OTMwMTg5MTEsLTE4OT
+E0MTExNDYsLTEzMjU0ODY3MjcsMjczODU3MDU0LC05NjYwNzA0
+MzUsMTg2ODE1NzM3NCwtMTQxNzcxMDk4NCwtMTQ4NTcyMzkxLC
+0yMDcxNzI3Njk5LC0xNjUzNDY1MDUyLC00MjkwMjE2MDMsLTMx
+NDAzODY2MCwxOTkzMzQ3MDA4LDIwMjI0MTI1ODIsMTM3NzMwNT
+M4OCwxMTg5Mzk2Mzc0LDE3Mzc0MDA5ODMsLTM2NjYzODU3MCwx
+NDQ0NzUzODg3LDE2Mzg1NTYyNjVdfQ==
 -->
