@@ -113,6 +113,7 @@ src="https://www.youtube.com/embed/06gUoes7gdo">
 
 Use Small and Slow Solutions: So many of saw what happened when Gorbachev introduced democracy to the USSR too quickly, yep all the wealth got snapped up by Oligarchs and the power remained with the elite! Same happened when the Raj withdrew from India, 1.5% of Indian and Pakistani nationals were left at the helm, with selfish intent at play. When Tito died in what was Yugoslavia, virtually overnight, the power vacuum that was left in the Balkans, where for years as the dictator he had been attempting to create an evenly dispersed cultural diversity (via some very dubious forced movements of communities, individuals and families), descended into absolute carnage! In the same way if you try to treat an outbreak of cabbage moths with torrents of pesticide, you will destroy a whole ecosystem of creatures, who will self-regulate the cabbage moth situation if given half a chance themselves. What you got to remember is; that to plant your cabbages, you just destroyed a multitude of diverse plants and umbelliferae, which were like the street corner for gangs of insectivores to hang out and leer at those ikkle cabbage moth larvae, just before they swooped in and killed every MF'ing last one of them! So, maybe just gently and slowly plant some umbelliferae, other companion and previously existent plants and the rest will write itself. In a mid-range example, we could look at the gradual and determined efforts of Neal Spackman and his co-founders in the re-greening of the desert story of Al Baydah, referenced and linked in one of our next sections, soon to be published. Take your bloody time! "Move at the Speed of Trust. focus on critical connections over critical mass. Build the resilience by building the relationships" (Quote: Emergent Strategy). Sudden change invariably ends in catastrophic failure!
 
+
 <a href="https://youtu.be/f098VsIIUTk">'Small & Slow' by The Formiddable Vegetable sound system</a>
 
 <iframe width="760" height="200"  
@@ -163,7 +164,7 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 
 <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1">
 
-|   |   |   |
+| <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"> |  <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"> |
 |---|---|---|
 |   |   |   |
 |---|---|---|
@@ -183,9 +184,9 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 <th colspan="3"></th>
 </tr>  
 <tr>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"></td>  
+<td></td>  
+<td></td>  
+<td></td>  
 </tr>  
 </table>
 
@@ -194,7 +195,7 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 <th colspan="3"></th>
 </tr>  
 <tr>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699065390628884/1.jpg" alt="Principles of Energy Inputs" width="189.5" height="285"></td>  
+<td></td>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699095841800192/2.jpg" alt="Principal of Energy Cycling" width="189.5" height="285"></td>  
 <td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699124899414056/3.jpg" alt="Principal of Energy Efficiency" width="189.5" height="285"></td>  
 </tr>  
