@@ -46,6 +46,7 @@ Observe and Interact: Take the time to understand cycles, rhythms, relationships
 src="https://www.youtube.com/embed/lSWWChaEi1o">  
 </iframe>
 
+
 Catch and Store Energy: Don’t let energy get away, it’s all around us moving at different speeds, occurring at different frequencies and manifesting in deifferent ways; it may not be there for another 6 months, but maybe there was enough last week to last for 6 month, if you’d been able to capture it and store it. Interactions between different sources is incredibly useful in terms of modulation, for example, you may have winds when the sun is out, driving your wind turbines and then solar kicking back in for your solar panels to take the baton, then maybe your river swells because of the rains and your micro hydro system kicks in. Also long and short cycles, i.e. day and night as a short cycle, or from winter and summer as a longer waveform. A great example of this is graviticity, a new electricity modulation technique which is proposing the use of disused mine shafts and heavy weights, in which they are raising the weights at low electricity usage periods and dropping the weights over dynamos at peak times to feed electricity supply, selectively modulating the supply demand ratio, you know so people can boil their kettle in the intermission. In the same way my Italian neighbours in Lugliano, would harvest tomatoes in the summer and bottle them for the winter, they would trade these with other producers for Limoncello, meat from the boar hunts, Porcini mushrooms, some of which would have been dried, again to be available for the non productive months.
 
 <a href="https://youtu.be/K6YsvKQrNlU">'Energy' by The Formiddable Vegetable sound system</a>
@@ -53,6 +54,7 @@ Catch and Store Energy: Don’t let energy get away, it’s all around us moving
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/K6YsvKQrNlU">  
 </iframe>
+
 
 Obtain a Yield: It’s easy to get carried away with the rest, but maximising yield is critical and can provide enough surplus to sustain fallow periods as well as to sustain those around you, who may be able to reciprocate in other ways you hadn’t even imagined if they are able to and if they are not, you are supporting them in their basic needs so they are able to survive without the mantle of consumerism and politically agendised supply chain. Maximising Yield, is making the most out of your enegy inputs and space that you have, based on all of the principles, to get the most out of what you are trying to achieve, via selective and efficient conversions applied around and within your space.
 
@@ -62,6 +64,7 @@ Obtain a Yield: It’s easy to get carried away with the rest, but maximising yi
 src="https://www.youtube.com/embed/tSTFfKHJg4Y">  
 </iframe>
 
+
 Apply Relf-Regulation and Accept Feedback: So…This is back to the decentralisation of everything! And incidentally how we should all conduct ourselves as people! But be in no doubt that decentralising ourselves, our culture, our cultivation, our finances, our learning, our manufacturing, etc. Does not mean that we have to do it alone, in fact it gives us more of an opportunity to connect with others and to share ideas, to receive guidance and advice and to ultimately implement it, once we have tweaked it to our native environment. It is our own responsibility to be mindful of how we tread. No one else’s! Do you remember your parents telling you to pick up after yourself???? Well try to keep that in mind as you tread the boards of life and you grow; as you grow this very simple mantra should grow with you. You should not need parents to remind you of this very simple technique once you are an adult!
 
 <a href="https://youtu.be/MinWXNy4_LY">'Limits' by The Formiddable Vegetable sound system</a>
@@ -69,6 +72,7 @@ Apply Relf-Regulation and Accept Feedback: So…This is back to the decentralisa
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/MinWXNy4_LY">  
 </iframe>
+
 
 Use and value Renewable Resources and Services: Back to Rhythms and Cycles; exploit and conserve these as they wax and release them gradually when they wane. From the large examples to the small, there is always something that you can do. Convert your diesel engine to run on old chip fat, it’s really not that complicated and enhances the reduction of carbon you have released by opting for an old second hand diesel motor, instead of buying a new vehicle; exponentially! Stick a mini hydro setup in your stream! Insulate the hell out of your house, wear a jumper and turn the heating off! Get a wind turbine, stick a thermal heat store in your house and run it off Solar, back Boiler on your stove and electric, so that your boiler only kicks in once in a blue moon. Harvest Rainwater, drop it into a raised tank for hotwater (Run some alcethyne pipes through a compost heap let convection and microbes do the rest and have 55 degree celsius showers forever, drop a tank underground with your cold water and if you’re feeling really adventurous get a couple of bore holes drilled and use one for 60,000,000 year old limestone filtered tap water and the other for heating. Get some goats/sheep, or a little donkey and put the goddamn mower away! You can get haulage muscle, milk and meat, you can’t eat or milk a mower (Please don’t try this at home kids, particularly whilst the motor’s running). The options are endless and they come in all shapes and sizes, so explore your options and pick a couple that suit your setup….
 
@@ -78,13 +82,15 @@ Use and value Renewable Resources and Services: Back to Rhythms and Cycles; expl
 src="https://www.youtube.com/embed/h__qCy4GhSM">  
 </iframe>
 
+
 Produce no Waste: This is one of the most tangible indicators of how well you are doing. In non-anthropogenically perverted nature, there is NO WASTE!! If you are trying to run shit in an efficient way, there IS NO WASTE!! If you get to zero, you’re doing OK, but don’t pat yourself on the back just yet, because you should be in credit at least to the volume of what you initially thought was waste before you are nailing it!! That is the point where you can give yourself a pat on the back and quite frankly when you will have the time to do so.
 
 <a href="https://youtu.be/mgZkn56dpk8">'No Such Thing As Waste' by The Formiddable Vegetable sound system</a>
 
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/mgZkn56dpk8">  
-</iframe></center>
+</iframe>
+
 
 Design from Patterns to Detail: Again – Rhythms and Cycles people!! Take the time to See WTF is going on and then and only then start designing, look, there are so many complex examples to bring to bear here, but let’s keep it simple, a flower that likes the sun does not grow on the north slope of a hill and moss doesn’t grow on the south face of a tree. So, be more-clever than a flower or moss, FFS, how many freaking cells are in your body! Actually only just over 40% are your own, don't worry though, the rest are made up of Microbes, integrated and working with us symbiotically to keep us standing. This brings me nicely on to the next principle.
 
@@ -92,7 +98,8 @@ Design from Patterns to Detail: Again – Rhythms and Cycles people!! Take the t
 
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/qOl2cYubn0I">  
-</iframe></center>
+</iframe>
+
 
 Integrate rather than Segregate: If you segregate, then, quite frankly, you are stupid and deserve to fail completely and there is no hope for you, natural selection will hopefully do away with you. So reference material here is Flooding & Weeds (Please excuse where I get a bit rural, rustic and earthy, because this shit most definitely applies to Social Design, Web Design, Manufacturing Design et al, it’s just these are my comfort zones, so not segregating less earthbound studies/practices, just using the most familiar examples to me for furthering a point that can, when better understood, be brought to bear in other environments more effectively), anyway back to flooding; so segregate water management from all of its familiar relationships and you lose the natural controls when it rains, snow melts etc. Everything at a mollecular level, is washed away to the ocean in moments leaving no water, no goodness and absolute destruction behind it. So by putting the river in some wildly optimistic concrete channel, from which it must never meander! By-passing completely, all the essential buffering of self regulating ecosystem infrastructure, the floods come and they just keep on rising. If we retrofit everything that was there before we came along and took it all away, though, we start to see correction, trees drink up to 50 gallons of water a day, beavers can create the most wonderful habitats for a myriad of wonderful creatures, whilst also modulating the flow of a swollen river and wetlands exist to soak up and release these ebbs and flows of current, naturally. But we like to drain them and build on them and wonder why we can’t get house insurance against an act of God!! It’s not an act of God! It’s an act of Anthropogenic Madness! 
 
@@ -101,7 +108,8 @@ Growing your garden you will have invariably at some point pulled your hair out 
  
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/06gUoes7gdo">  
-</iframe></center>
+</iframe>
+
 
 Use Small and Slow Solutions: So many of saw what happened when Gorbachev introduced democracy to the USSR too quickly, yep all the wealth got snapped up by Oligarchs and the power remained with the elite! Same happened when the Raj withdrew from India, 1.5% of Indian and Pakistani nationals were left at the helm, with selfish intent at play. When Tito died in what was Yugoslavia, virtually overnight, the power vacuum that was left in the Balkans, where for years as the dictator he had been attempting to create an evenly dispersed cultural diversity (via some very dubious forced movements of communities, individuals and families), descended into absolute carnage! In the same way if you try to treat an outbreak of cabbage moths with torrents of pesticide, you will destroy a whole ecosystem of creatures, who will self-regulate the cabbage moth situation if given half a chance themselves. What you got to remember is; that to plant your cabbages, you just destroyed a multitude of diverse plants and umbelliferae, which were like the street corner for gangs of insectivores to hang out and leer at those ikkle cabbage moth larvae, just before they swooped in and killed every MF'ing last one of them! So, maybe just gently and slowly plant some umbelliferae, other companion and previously existent plants and the rest will write itself. In a mid-range example, we could look at the gradual and determined efforts of Neal Spackman and his co-founders in the re-greening of the desert story of Al Baydah, referenced and linked in one of our next sections, soon to be published. Take your bloody time! "Move at the Speed of Trust. focus on critical connections over critical mass. Build the resilience by building the relationships" (Quote: Emergent Strategy). Sudden change invariably ends in catastrophic failure!
 
@@ -109,7 +117,8 @@ Use Small and Slow Solutions: So many of saw what happened when Gorbachev introd
 
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/f098VsIIUTk">  
-</iframe></center>
+</iframe>
+
 
 Use and Value Diversity: Diversity is our best friend!! It reduces energy inputs, it is the nature of nature, it is the friend of exponentially increasing outputs and remove just one part of a diverse ecosystem and you’re screwed! Basically work-load goes up, resource pool declines, chances of disaster is exponentially up and damage to the environment; already foretold! Diversity in social terms is our friend: Genetically, we get stronger if we don’t have kids with our next of kin (plus we have more aesthetically pleasing features ;-) and when it comes to infrastructure, diversity is where we sometimes find the most surprising and beneficial solutions. You have a bank run by 50 something crusty, musty establishment guys trying to run a profitable economic model and a startup suddenly pops up out of nowhere, because some bright spark was like “Hey we don’t need actual banks anymore, let’s just stick it on people’s smart phones , and send them a notification once the money lands” I’ll leave the rest to your vivid imaginations (Clearly Smart-Phones are a massive problem ecologically and ethically, but are currently, an intrinsic cog in the permaculture existent in society and our Digital/Real Life interphasically based communities, it would be awesome to see the back of these, but I am doubtful we will until we have established an implant and HUD, upgraded tech solution).
 
@@ -117,15 +126,17 @@ Use and Value Diversity: Diversity is our best friend!! It reduces energy inputs
 
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/8beQuHwfVag">  
-</iframe></center>
+</iframe>
 
-Use Edges and Value the Marginal:</b> So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Because i am diversity, dynamism, not skilled in the arts of web design, but a builder and poet, so far from the metiers, of my fellow digital builders who have done so much to create this new brave world. Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have billowed about and because it’s at the edge you just let them get on with it. In a systems sense, this is where your system starts to engage with other systems around it and as such, is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy.
+
+Use Edges and Value the Marginal: So; this is me! I’m the edge and the marginal, I came to The Metagame with absolutely no idea WTF you’re all doing, I mean I can’t overstate this, I literally had no idea, it was just the gentle and constant tugging of Luxumbra telling me I should, telling me I could, telling me if I didn’t; I was a wasteman! Anyway, here I am absolutely smashing it! Ha Ha :-D Because i am diversity, dynamism, not skilled in the arts of web design, but a builder and poet, so far from the metiers, of my fellow digital builders who have done so much to create this new brave world. Anyway, back to a level for a moment, in a garden, the edge is quite frankly where it is at! There is a song all about it linked below! And what a song, one of my favourites. Basically what this means is that at the edge of the plot where you didn’t completely destroy everything to grow, you will find that nature still exists and that seeds will have billowed about and because it’s at the edge you just let them get on with it. In a systems sense, this is where your system starts to engage with other systems around it and as such, is a much more dynamic zone than at the heart of your system where everything is predictable because it is all within the confines of known parameters. The edge is where you learn, it’s where the action is, this is the caramelisation at the edge of your roasting tray that brings the heady flavour to your gravy.
 
 <a href="https://youtu.be/4vp4B9Hu0ik">'The Edge' by The Formiddable Vegetable sound system</a>
 
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/4vp4B9Hu0ik">  
-</iframe></center>
+</iframe>
+
 
 Creatively Use and Respond to Change: Change does not stop! Nothing is constant in this universe and beyond other than change, we are in a constant state of dynamic flux, again there is no way of overstating this. Try taking a piece of solid oak you’ve planked and telling it to stay flat and where you put it. Not going to happen; that bad boy is on the move and will rip all your fixings out the wall on the way! You need to understand that and work with that plank, this is why in a traditional timber frame, the wooden pegs set through two beams are through offset holes and are gradually knocked in year on year as the frame reposes. I was listening to a podcast with Moxie Marlinspike (Yep that’s his name), the instigator of Signal (Anonymous Messaging at the forefroont of decentralisation of our digital data), absolute legend, worth a listen actually, a Joe Rogan Podcast, anyway he was talking about the fact that it is a constant and infinite work to keep the software up to date and sympathetic, compatible and resistant to the ever changing software environment that it exists in, notwithstanding the more social and business sides of things, such as relationships, contracts, fees negotiations etc. This is a not for profit business pitting itself against and alongside the likes of Apple and Google etc… Perfect example of identifying the concerns that people were starting to have about their communication and identities slowly becoming the intellectual property of corporate giants to do what they will with and finding a Moxie sized space which he slipped into and has been nurturing ever since to great accolade and my God! He deserves it, lets all just take a minute to digest what a fucking massive feat he has achieved in terms of resiliently and creatively using and responding to change!
 
@@ -133,7 +144,7 @@ Creatively Use and Respond to Change: Change does not stop! Nothing is constant 
 
 <iframe width="760" height="200"  
 src="https://www.youtube.com/embed/n08bNUPyHgE">  
-</iframe></center>
+</iframe>
 
 So Prior to me re-writing these previously described principles and ethics for us, they looked a bit more like this:
 
@@ -141,12 +152,12 @@ So Prior to me re-writing these previously described principles and ethics for u
 
 <iframe width="760" height="200"  
 src="https://permacultureprinciples.com/">  
-</iframe></center>
+</iframe>
 
 <a href="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/">Bill Mollison’s 12 x Principals of Permaculture:</a>
 
 <iframe width="760" height="200"  
-src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/"> </iframe></center>
+src="https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/"> </iframe>
 
 The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a href="https://permaculturefundamentals.com">www.Permaculturefundamentals.com</a> by Brett Cooper & Brett Pritchard. These are free to download, print and use for educational purposes and are an incredibly useful resource in summarising Permaculture to the uninitiated and prompts for those a little more experienced too.
 
@@ -155,11 +166,17 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 |   |   |   |
 |---|---|---|
 |   |   |   |
+|---|---|---|
 |   |   |   |
+|---|---|---|
 |   |   |   |
+|---|---|---|
 |   |   |   |
+|---|---|---|
 |   |   |   |
+|---|---|---|
 |   |   |   |
+
 
 <table style="width:100%">  
 <tr>  
