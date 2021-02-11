@@ -166,7 +166,7 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"> |  <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"> |
 |---|---|---|
-|   |   |   |
+| <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699065390628884/1.jpg" alt="Principal of Energy Inputs" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699095841800192/2.jpg" alt="Principal of Energy Cycling" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699124899414056/3.jpg" alt="Principal of Energy Efficiency" width="189.5" height="285"> |
 |---|---|---|
 |   |   |   |
 |---|---|---|
@@ -196,8 +196,8 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 </tr>  
 <tr>  
 <td></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699095841800192/2.jpg" alt="Principal of Energy Cycling" width="189.5" height="285"></td>  
-<td><img src="https://cdn.discordapp.com/attachments/781969288642560041/807699124899414056/3.jpg" alt="Principal of Energy Efficiency" width="189.5" height="285"></td>  
+<td><</td>  
+<td></td>  
 </tr>  
 </table></center><p class="big">
 
