@@ -165,17 +165,17 @@ The 21 Cards on the Ethics and Principles of Bill Mollison as provided on <a hre
 <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699026723864606/Cover.jpg" alt="Mollison's Permaculture Ethics & Design Principles" width="760" height="516.1">
 
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699574579265537/E1.jpg" alt="Permaculture Ethics" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699601448108032/E2.jpg" alt="Ethics on Natural Systems" width="189.5" height="285"> |  <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699632528293888/E3-1.jpg" alt="Ethics on Resource Management" width="189.5" height="285"> |
-|---|---|---|
+||||
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699065390628884/1.jpg" alt="Principal of Energy Inputs" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699095841800192/2.jpg" alt="Principal of Energy Cycling" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699124899414056/3.jpg" alt="Principal of Energy Efficiency" width="189.5" height="285"> |
-|---|---|---|
+||||
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699152040624138/4.jpg" alt="Principal of Stability" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699179560370186/5.jpg" alt="Principal of Multifuctionality" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699206328287279/6-1.jpg" alt="Principal of Support" width="189.5" height="285"> |
-|---|---|---|
+||||
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699235491414046/7-1.jpg" alt="Principal of Relative Location" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699267492773898/8.jpg" alt="Principal of Biological Resource Use" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699294785241088/9.jpg" alt="Principal of Diversity" width="189.5" height="285"> |
-|---|---|---|
+||||
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699319539892244/10.jpg" alt="Principal of Edge Effects" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699346731958302/11.jpg" alt="Principal of Intensification" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699371369037844/12.jpg" alt="Principal of Accelerated Succesion & Evolution" width="189.5" height="285"> |
-|---|---|---|
+||||
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699400264253450/13.jpg" alt="Principal of Natural Forces" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699429661999104/14.jpg" alt="Principal on Yield" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699455938658329/15.jpg" alt="Principal of Cooperation" width="189.5" height="285"> |
-|---|---|---|
+||||
 | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699484116516955/16.jpg" alt="Positivity Principal" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699508200734760/17.jpg" alt="Proximity Principal" width="189.5" height="285"> | <img src="https://cdn.discordapp.com/attachments/781969288642560041/807699534053376000/18.jpg" alt="Demonstration Principal" width="189.5" height="285"> |
 
 
